@@ -1,0 +1,14 @@
+{
+  "short_name": "TODO",
+  "name": "The last TODO app you'll ever need",
+  "icons": [
+    {
+      "src": "tesseract.svg",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
